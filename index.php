@@ -80,7 +80,7 @@ $APPLICATION->AddHeadScript('https://code.jquery.com/ui/1.13.0/jquery-ui.js');
     </div>
     <div class="tw-mt-5">
       <div class="tw-mb-5"><a class="tw-underline"
-          href="https://moscow-export.com/upload/File%20on%20site/Положение_МЭЦ_Экспортер_года_2022.pdf"
+          href="https://moscow-export.com/upload/File%20on%20site/Положение_о_проведении_конкурса_Экспортер_года.pdf"
           target="_blank">Положение о проведении ежегодного регионального конкурса «Экспортер года»</a></div>
       <!-- <div><a class="tw-underline"
             href="https://moscow-export.com/upload/File%20on%20site/Состав%20членов%20комиссии%20по%20конкурсу%20Экспортер%20года.pdf"
