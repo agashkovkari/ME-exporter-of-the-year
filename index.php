@@ -181,7 +181,7 @@ $APPLICATION->AddHeadScript('https://code.jquery.com/ui/1.13.0/jquery-ui.js');
       </div>
 
       <div
-        class="tw-hidden lg:tw-flex lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25">
+        class="tw-relative tw-flex tw-items-center lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25 tw-bg-mec-gray-300 hover:tw-bg-[#D94949] hover:tw-text-white tw-font-bold tw-shadow-[0px_4px_10px_rgba(0,0,0,0.3)]">
         <div>
           Экспортер года в сфере базовой продукции агропромышленного комплекса<br>
           <span class="tw-text-small-size">(для МСП)</span>
@@ -207,7 +207,7 @@ $APPLICATION->AddHeadScript('https://code.jquery.com/ui/1.13.0/jquery-ui.js');
       </div>
 
       <div
-        class="tw-hidden lg:tw-flex lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25">
+        class="tw-relative tw-flex tw-items-center lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25 tw-bg-mec-gray-300 hover:tw-bg-[#D94949] hover:tw-text-white tw-font-bold tw-shadow-[0px_4px_10px_rgba(0,0,0,0.3)]">
         <div>
           Экспортер года в сфере базовой продукции агропромышленного комплекса<br>
           <span class="tw-text-small-size">(для крупного бизнеса)</span>
