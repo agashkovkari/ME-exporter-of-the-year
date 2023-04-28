@@ -231,8 +231,14 @@ $APPLICATION->AddHeadScript('https://code.jquery.com/ui/1.13.0/jquery-ui.js');
       </div>
 
       <div
-        class="tw-hidden lg:tw-flex lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25">
-        &nbsp;
+        class="tw-relative tw-flex tw-items-center lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25 tw-bg-mec-gray-300 hover:tw-bg-[#D94949] hover:tw-text-white tw-font-bold tw-shadow-[0px_4px_10px_rgba(0,0,0,0.3)]">
+        <div>
+          Трейдер года<br>
+          <span class="tw-text-small-size">(для крупного бизнеса)</span>
+        </div>
+        <div class="tw-absolute -tw-top-3 md:-tw-top-6.5 -tw-left-3 md:-tw-left-6.5">
+          <img class="tw-w-[58px] md:tw-w-[114px] tw-h-[58px] md:tw-h-[114px]" src="./img/2023/nomination-12.png" alt />
+        </div>
       </div>
     </div>
 
