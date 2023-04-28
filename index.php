@@ -333,6 +333,9 @@ $APPLICATION->AddHeadScript('https://code.jquery.com/ui/1.13.0/jquery-ui.js');
           <img class="tw-w-[58px] md:tw-w-[114px] tw-h-[58px] md:tw-h-[114px]" src="./img/2023/nomination-09.png" alt />
         </div>
       </div>
+      <div
+        class="tw-relative tw-flex tw-items-center lg:tw-flex-1 tw-h-[80px] md:tw-h-[140px] tw-ml-3 md:tw-ml-6.5 tw-p-7.5 tw-pl-15 md:tw-pl-25">
+      </div>
     </div>
 
   </div>
